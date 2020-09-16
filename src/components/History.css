@@ -1,0 +1,24 @@
+.History{
+    display:flex;
+    height: 3em;
+    flex: 1;
+    background-color: #262626;
+    outline:1px solid #888;
+    color:#e6dbc9;
+    
+    padding-right: 20px;
+    font-weight: lighter;
+    font-size: 1.4em;
+    align-items: center;
+    overflow:auto;
+    
+}
+.his1{
+    justify-content: stretch;
+    padding-left: 40px;
+    margin-right: 50px;
+    
+}
+.his2{
+    overflow: auto;
+}
